@@ -6,11 +6,23 @@
 <br/>
 
 <!-- ================= АНІМОВАНИЙ ЗАГОЛОВОК ================= -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+SemiBold&size=30&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=80&lines=%F0%9D%95%90%F0%9D%95%A6%F0%9D%95%A2+%E2%84%8D%F0%9D%95%9A%F0%9D%95%A3%F0%9D%95%A6%F0%9D%95%9E%F0%9D%95%A0%F0%9D%95%9E;Aspiring+Penetration+Tester;C%23+%7C+C%2B%2B+Developer;Game+Creator+%7C+PPFC+Student" />
+  <img src="https://komarev.com/ghpvc/?username=Yui-Hirasawa-a&style=for-the-badge&color=00BFFF&label=Profile+Views" alt="Profile views"/>
 </div>
 
-================= АНІМОВАНИЙ ЗАГОЛОВОК ================= --> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+SemiBold&size=30&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=80&lines=%F0%9D%95%90%F0%9D%95%A6%F0%9D%95%A2+%E2%84%8D%F0%9D%95%9A%F0%9D%95%A3%F0%9D%95%A6%F0%9D%95%9E%F0%9D%95%A0%F0%9D%95%9E;Aspiring+Penetration+Tester;C%23+%7C+C%2B%2B+Developer;Game+Creator+%7C+PPFC+Student" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Yui-Hirasawa-a&style=for-the-badge&color=00BFFF&label=Profile+Views" alt="Profile views"/> </div> <br/> <hr style="border: 2px solid #00BFFF; width: 100%;"> <!-- ================= ПРО МЕНЕ ================= --> <h2 align="center">💥 Про мене</h2> <table align="center"> <tr> <td>
+<br/>
+
+<hr style="border: 2px solid #00BFFF; width: 100%;">
+
+<!-- ================= ПРО МЕНЕ ================= -->
+<h1 align="center" style="font-family: 'Cascadia Code SemiBold', monospace; letter-spacing: 4px; color: #00BFFF;">× ᴍᴀᴋɪᴍᴀ ×</h1>
+
+<h2 align="center">💥 Про мене</h2>
+
+<table align="center">
+<tr>
+<td>
 
 Я — початківець у програмуванні, навчаюсь на **3 курсі Політехнічного фахового коледжу** за **121 спеціальністю**.
 Люблю кодити, експериментувати з технологіями та постійно вдосконалювати свої навички.
@@ -109,13 +121,9 @@
 <!-- ================= СТАТИСТИКА ================= -->
 <h2 align="center">📊 Статистика GitHub</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yui-Hirasawa-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yui-Hirasawa-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yui-Hirasawa-a&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Yui-Hirasawa-a&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
 </div>
 
 <br/>
@@ -125,6 +133,7 @@
 <h2 align="center">👁‍🗨 Контакти</h2>
 
 <div align="center">
+
   <a href="https://discord.com/users/882216781798838373" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Add_me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
