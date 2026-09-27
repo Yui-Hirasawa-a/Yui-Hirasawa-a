@@ -93,7 +93,7 @@
   <summary><strong>🍜 Davalka</strong></summary>
   <br/>
   <blockquote>
-    Командний проєкт — веб-платформа на Clean Architecture, написана на C#.
+    Командний проєкт — веб-платформа для повій та онліфанщіц без смс та реєстрації, розвивав разом з smoscalus.
   </blockquote>
 </details>
 
