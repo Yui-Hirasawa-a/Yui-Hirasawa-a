@@ -5,111 +5,153 @@
 
 <br/>
 
-<!-- ================= ЦЕНТРАЛЬНИЙ МОНОШРИФТ З Анімацією ================= -->
+<!-- ================= АНІМОВАНИЙ ЗАГОЛОВОК ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+SemiBold&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=80&lines=𝕐𝕦𝕚+ℍ𝕚𝕣𝕒𝕤𝕒𝕨𝕒;Developer+|+Cybersecurity+Learner;Game+Creator+|+PPFC+student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+SemiBold&size=30&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&height=80&lines=%F0%9D%95%90%F0%9D%95%A6%F0%9D%95%A2+%E2%84%8D%F0%9D%95%9A%F0%9D%95%A3%F0%9D%95%A6%F0%9D%95%9E%F0%9D%95%A0%F0%9D%95%9E;Aspiring+Penetration+Tester;C%23+%7C+C%2B%2B+Developer;Game+Creator+%7C+PPFC+Student" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yui-Hirasawa-a&style=for-the-badge&color=00BFFF&label=Profile+Views" alt="Profile views"/>
+</div>
+
 <br/>
 
 <hr style="border: 2px solid #00BFFF; width: 100%;">
-
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<h2 align="center">💥Про мене</h2>
+<h2 align="center">💥 Про мене</h2>
 
-<div style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 16px; line-height: 1.8; max-width: 700px; margin: 20px auto; text-align: center; color: #E0F7FF;">
-Я — початківець у програмуванні, навчаюсь на <b>2 курсі Політехнічного фахового коледжу</b> за <b>121 спеціальністю</b>.  
+<table align="center">
+<tr>
+<td>
+
+Я — початківець у програмуванні, навчаюсь на **2 курсі Політехнічного фахового коледжу** за **121 спеціальністю**.
 Люблю кодити, експериментувати з технологіями та постійно вдосконалювати свої навички.
 
-Маю практичний досвід у <b>C++</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, а також працюю з базами даних <b>SQL</b> та <b>MongoDB</b>. Цікавлюсь кібербезпекою, апаратним забезпеченням та криптографією.
+- 🔐 Розвиваюсь у напрямку **кібербезпеки та пентесту** (PortSwigger Academy та власні лабораторні роботи)
+- 💻 Практичний досвід у **C++**, **C#**, **HTML**, **CSS**, **JavaScript**
+- 🗄️ Працюю з базами даних **SQL** та **MongoDB**
+- 🎮 Розробляю ігри на **Unreal Engine 5** та **Roblox Studio**
+- 🤝 Кодую разом з другом **Андрієм** ([@izachoc](https://github.com/izachoc)) — разом розвиваємо спільні проєкти
 
-Також маю неймовірного кента — <b>Андрія</b>, з яким ми разом кодуємо та розвиваємо проєкти.
-</div>
-
-<!-- ================= БЕЙДЖІ ТА КНОПКА ================= -->
-<div align="center">
-
-<a href="https://github.com/izachoc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ᴀɴᴅʀʏᴜᴋʜᴀ-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ᴀɴᴅʀʏᴜᴋʜᴀ"/>
-</a>
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
 <hr style="border: 2px solid #00BFFF; width: 100%;">
 
-<h2 align="center">⚡Мій стек та інструменти</h2>
+<!-- ================= СТЕК ================= -->
+<h2 align="center">⚡ Мій стек та інструменти</h2>
 
 <div align="center">
 
-<!-- Мови програмування -->
 <img src="https://img.shields.io/badge/C%2B%2B-ʟᴏᴠᴇ-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C%23-ɢʀᴏᴡɪɴɢ-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/HTML5-ᴄᴏʀᴇ-E96228?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-ʙᴇᴀᴜᴛʏ-2965F1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-ᴍᴏᴠᴇᴍᴇɴᴛ-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <br/>
 
-<!-- Бази даних -->
 <img src="https://img.shields.io/badge/SQL-ᴄᴏɴᴛᴇɴᴛ-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/MongoDB-ᴅᴀᴛᴀ-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/SQLite-ʟɪɢʜᴛ-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 
 <br/>
 
-<!-- Інструменти -->
 <img src="https://img.shields.io/badge/UE5-ɢᴀᴍᴇ ᴅᴇᴠ-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5"/>
+<img src="https://img.shields.io/badge/Roblox_Studio-ᴡᴏʀʟᴅꜱ-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
 <img src="https://img.shields.io/badge/Visual_Studio-ᴄᴏᴅᴇ-7B4FC6?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
 <img src="https://img.shields.io/badge/Git-ᴍᴀɴᴀɢᴇ-F14E32?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-</div>
-
-<br/>
-<h2 align="center">🎇 Поточні проєкти</h2>
-<details>
-  <summary><strong>JDM_Auto</strong></summary>
-  <blockquote>
-    Проєкт які планую розвивати все далі і далі щоб презентувати на курсовому
-    . Суть проєкту: Сучасний сайт для українських фанатів японського автопрому, де ви зможете знайти для себе цікаві екземпляри і якщо є бажання купити авто.
-  </blockquote>
-</details>
-
-<details>
-  <summary><strong>PolytechXXX</strong></summary>
-  <blockquote>
-    Не було мені з Андрійом чим занятись. Пішли робити електронний журнал для групи. "Палучілась хуйня". Просто закинули хоча 70% роботи було виконано(
-  </blockquote>
-</details>
 <br/>
 
-<h2 align="center">📊 Статистика GitHub</h2>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yui-Hirasawa-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-</div>
+<img src="https://img.shields.io/badge/Burp_Suite-ᴘᴇɴᴛᴇꜱᴛ-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/PortSwigger_Academy-ʟᴇᴀʀɴɪɴɢ-FF6633?style=for-the-badge" alt="PortSwigger"/>
 
+</div>
 
 <br/>
 <hr style="border: 2px solid #00BFFF; width: 100%;">
+
+<!-- ================= ПРОЄКТИ ================= -->
+<h2 align="center">🎇 Поточні проєкти</h2>
+
+<div align="center">
+
+<details>
+  <summary><strong>🚗 JDM_Auto</strong></summary>
+  <br/>
+  <blockquote>
+    Проєкт, який планую розвивати далі, щоб презентувати на курсовому.<br/>
+    Суть проєкту: сучасний сайт для українських фанатів японського автопрому, де можна знайти цікаві екземпляри та за бажанням придбати авто.
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>🍜 Davalka</strong></summary>
+  <br/>
+  <blockquote>
+    Командний проєкт — веб-платформа на Clean Architecture, написана на C#.
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>🖥️ Компілятор (командна розробка)</strong></summary>
+  <br/>
+  <blockquote>
+    Курсовий командний проєкт коледжу — онлайн-компілятор/IDE для навчальних цілей.
+  </blockquote>
+</details>
+
+<details>
+  <summary><strong>📒 PolytechXXX</strong></summary>
+  <br/>
+  <blockquote>
+    Електронний журнал для групи, зроблений разом з Андрієм. Проєкт заморожений на ~70% готовності.
+  </blockquote>
+</details>
+
+</div>
+
+<br/>
+<hr style="border: 2px solid #00BFFF; width: 100%;">
+
+<!-- ================= СТАТИСТИКА ================= -->
+<h2 align="center">📊 Статистика GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yui-Hirasawa-a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yui-Hirasawa-a&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yui-Hirasawa-a&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+</div>
+
+<br/>
+<hr style="border: 2px solid #00BFFF; width: 100%;">
+
+<!-- ================= КОНТАКТИ ================= -->
 <h2 align="center">👁‍🗨 Контакти</h2>
 
 <div align="center">
 
-  <!-- Steam -->
   <a href="https://steamcommunity.com/profiles/76561199061524399/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-Profile-1B2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+  <a href="https://discord.com/users/882216781798838373" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Add_me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
-  <!-- Discord -->
-  <a href="https://discord.com/users/882216781798838373" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </div>
 
-</br>
-
-<div style="width: 100%; border-bottom: 2px solid #FFFFFF; margin: 30px 0;"></div>
+<br/>
 
 <div align="center" style="font-family: 'Cascadia Code SemiBold', monospace; font-size: 18px; color: #00BFFF; line-height: 1.6; margin-top: 20px;">
-  👋 Вітаю вас! Ви дійшли до кінця мого профілю.  
-  Дякую за вашу увагу та час!  
+  👋 Вітаю вас! Ви дійшли до кінця мого профілю.<br/>
+  Дякую за вашу увагу та час!<br/>
   Сподіваюсь, вам сподобалось.
 </div>
