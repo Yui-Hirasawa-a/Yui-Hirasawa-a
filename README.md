@@ -1,6 +1,6 @@
 <!-- ================= БАНЕР ================= -->
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Yuki Setup" style="border-radius: 16px;"/>
+  <img src="banner.jpg" width="100%" alt="Yui Setup" style="border-radius: 16px;"/>
 </div>
 
 <br/>
@@ -16,7 +16,7 @@
 <hr style="border: 2px solid #00BFFF; width: 100%;">
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<h1 align="center" style="font-family: 'Cascadia Code SemiBold', monospace; letter-spacing: 4px; color: #00BFFF;">× ᴍᴀᴋɪᴍᴀ ×</h1>
+<h1 align="center" style="font-family: 'Cascadia Code SemiBold', monospace; letter-spacing: 4px; color: #00BFFF;">× ʏᴜɪ ʜɪʀᴀѕᴀᴡᴀ ×</h1>
 
 <h2 align="center">💥 Про мене</h2>
 
