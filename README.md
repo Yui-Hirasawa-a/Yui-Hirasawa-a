@@ -1,6 +1,6 @@
 <!-- ================= БАНЕР ================= -->
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Yui Setup" style="border-radius: 16px;"/>
+  <img src="banner.png" width="100%" alt="Yui Setup" style="border-radius: 16px;"/>
 </div>
 
 <br/>
