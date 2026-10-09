@@ -16,7 +16,7 @@
 <hr style="border: 2px solid #00BFFF; width: 100%;">
 
 <!-- ================= ПРО МЕНЕ ================= -->
-<h1 align="center" style="font-family: 'Cascadia Code SemiBold', monospace; letter-spacing: 4px; color: #00BFFF;">× ᴍᴀᴋɪᴍᴀ ×</h1>
+<h1 align="center" style="font-family: 'Cascadia Code SemiBold', monospace; letter-spacing: 4px; color: #00BFFF;">ɢᴀƶᴏɴᴏᴋᴏѕɪʟᴋᴀ ʏᴏᴏ</h1>
 
 <h2 align="center">💥 Про мене</h2>
 
